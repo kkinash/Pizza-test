@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    },
+    "autoload": {
+        "classmap": ["Entities","Business","Data","Exceptions"]
+        },
+    "require": {
+        "twig/twig": "^3.5"
+    }
+}
+
